@@ -1,7 +1,7 @@
 # VFF
 ## Vue + Feathers + Fractal
 
-This is a minimaltic project using ES6 and a couple of frameworks and tools to create a rapid development stack with minimal config, a tight feedback loop (automatic live-reloading, compilation, transpilation & bundling for both front-end and back-end code) and a living styleguide of the components that make up the UI.
+This is a minimalistic project using ES6 and a couple of frameworks and tools to create a rapid development stack with minimal config, a tight feedback loop (automatic live-reloading, compilation, transpilation & bundling for both front-end and back-end code) and a living styleguide of the components that make up the UI.
 
 
 ## Install
