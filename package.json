@@ -1,0 +1,20 @@
+{
+  "name": "VFF",
+  "description": "Vue+Feathers+Fractal - A demo implementing a Javascript stack with Hot-Reloading across the board and a Living Styleguide",
+  "author": "Bruno Molteni",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "gulp",
+    "build": "gulp build",
+    "i": "gulp i",
+    "docs": "gulp docs-dev" 
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@frctl/fractal": "^1.0.11",
+    "gulp": "^3.9.1",
+    "gulp-shell": "^0.5.2",
+    "http-proxy-middleware": "^0.17.3"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "vbuild --dev",
+    "build": "vbuild"
+  },
+  "dependencies": {
+    "vue": "2.1.5"
+  },
+  "devDependencies": {
+    "callback-loader": "^0.2.4",
+    "promise-polyfill": "^6.0.2",
+    "vue-loader": "10.0.2",
+    "vue-range-slider": "^0.2.4",
+    "vue-template-compiler": "2.1.5",
+    "whatwg-fetch": "^2.0.2"
+  }
+}
